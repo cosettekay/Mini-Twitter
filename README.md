@@ -47,10 +47,14 @@ This project is a Java-based Mini Twitter application with a graphical user inte
 - Use the text fields and buttons to create users and groups.
 - Select a user from the tree view and click "Open User View" to manage their tweets and followings.
 
+<img width="436" alt="image" src="https://github.com/cosettekay/Mini-Twitter/assets/71306558/7e5e143b-fcea-48ee-badb-4393f7f1c934">
+
 ### User View
 - Follow users by entering their ID and clicking "Follow".
 - Post tweets using the text area and "Post" button.
 - View tweets in the news feed list.
+
+<img width="437" alt="image" src="https://github.com/cosettekay/Mini-Twitter/assets/71306558/fe157695-3a91-44e7-b074-2ae13e20874f">
 
 ## Demo
 A short demo video explaining the functionality and design patterns used in the project is available on YouTube: [Mini Twitter Demo](-)
