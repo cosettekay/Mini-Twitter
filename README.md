@@ -57,7 +57,7 @@ This project is a Java-based Mini Twitter application with a graphical user inte
 <img width="437" alt="image" src="https://github.com/cosettekay/Mini-Twitter/assets/71306558/fe157695-3a91-44e7-b074-2ae13e20874f">
 
 ## Demo
-A short demo video explaining the functionality and design patterns used in the project is available on YouTube: [Mini Twitter Demo](-)
+A short demo video explaining the functionality and design patterns used in the project is available on YouTube: [Mini Twitter Demo](https://youtu.be/4dPt2wMtcnQ)
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any bugs or feature requests.
